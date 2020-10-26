@@ -1,6 +1,6 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi! I’m <br> Jean Vanberselaert <br> Cloud project manager"
 
 # about
 about:
@@ -16,19 +16,19 @@ skill:
   enable : true
   title : "Skills"
   item:
-    - title : "Web Design"
+    - title : "Project Management"
       progress : "90%"
       color : "#fdb157"
       
-    - title : "Logo Design"
+    - title : "Agile Methods"
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "Architecture Design"
       progress : "80%"
       color : "#bdecf6"
       
-    - title : "Web App"
+    - title : "DevOps Mindset"
       progress : "70%"
       color : "#ffbcaa"
 
@@ -38,14 +38,14 @@ experience:
   title : "Experience"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "Technical Project Manager"
+      company : "Bonduelle"
+      duration : "Oct 2019 - today"
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : "Data Exchanges Project Leader"
+      company : "Decathlon"
+      duration : "May 2016 - June 2018"
       
     - logo : "images/experience/icon-1.png"
       title : "Senior UI Designer"

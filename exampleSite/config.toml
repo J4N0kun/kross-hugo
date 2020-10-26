@@ -1,9 +1,9 @@
 # default configuration
-baseURL = "http://examplesite.com"
+baseURL = "https://blog.janokun.me"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Mon blog"
 
 # css plugins
 [[params.plugins.css]]
@@ -56,11 +56,11 @@ logo = ""
 # theme color
 theme_color = "#41228e"
 # contact info
-phone = "+880 2544 658 256"
-email = "steve.fruits@email.com"
-address = "125/A, CA Commercial Area, California, USA"
+phone = "+651440184"
+email = "jean.vanberselaert@gmail.com"
+address = "39, rue du Maréchal Leclerc, Wasquehal, FRANCE"
 # meta description
-author = "Johnathan Smith"
+author = "Jean Vanberselaert"
 description = "This is meta description"
 # google analytics
 google_analytics_id = "" # Your ID
@@ -82,8 +82,8 @@ form_action = "#" # contact form works with : https://formspree.io
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "50.6674144"
+map_longitude = "3.1346446"
 map_marker = "images/marker.png"
 
 # cookies
